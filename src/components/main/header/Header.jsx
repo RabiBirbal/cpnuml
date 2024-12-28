@@ -255,12 +255,12 @@ SearchAppBar.defaultProps = {
       linkType: "notice",
       navigateLink: "notice",
     },
-    {
-      id: 4,
-      text: "Archive",
-      linkType: "archive",
-      navigateLink: "archive",
-    },
+    // {
+    //   id: 4,
+    //   text: "Archive",
+    //   linkType: "archive",
+    //   navigateLink: "archive",
+    // },
     {
       id: 5,
       text: "Gallery",

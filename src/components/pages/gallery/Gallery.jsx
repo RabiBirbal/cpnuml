@@ -76,8 +76,8 @@ Gallery.defaultProps = {
   images: [
     "https://superdesk-pro-c.s3.amazonaws.com/sd-nepalitimes/2022111011110/636ccc849c7e80680e08bc29jpeg.jpg",
     "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2020/03/oli-nepal-prachanda-madhav-kumar-nepal-kp-oli-puspakamaldahal.jpg?resize=961%2C614&ssl=1",
-    "https://myrepublica.nagariknetwork.com/uploads/media/Kp-Oli_20191031173844.jpg",
-    "https://myrepublica.nagariknetwork.com/uploads/media/2016/October/Prime%20minister%20KP%20Oli.jpg",
+    "https://www.space4ktv.com/storage/photos/28/kp-oli1679045615.webp",
+    "https://en.setopati.com/uploads/posts/725X460/Oli-1710241632.jpg",
     "https://imgnew.outlookindia.com/public/uploads/articles/2020/7/14/Nepal-PM-Oli_20200708_350_630.jpg",
     "https://th-i.thgim.com/public/news/international/1s19rk/article33924590.ece/alternates/FREE_1200/vbk-sharma-oli-gettyimages",
   ],
